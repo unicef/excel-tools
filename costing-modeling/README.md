@@ -11,3 +11,5 @@ The budget which is normally in one sheet, is broken into several sheets:
 3. Ratios - Based on standards (e.g. pupil-classroom ratio) and assumptions (e.g. teacher attrition rate). This is a new element not typically found in budget templates which allows for modeling costs automatically based on provided inputs.
 4. Budget - The detailed budget (and budget model), using inputs from the above three sheets.
 5. Summary - Automatically generated budget summary with option to generate a standard budget spreadsheet
+
+Note: all data in the spreadsheet are fictional, for demonstration purposes only.
